@@ -1,0 +1,93 @@
+10
+
+dir
+2
+svn://127.0.0.1/itcast-microservice/taotao-cart-springboot/src/main/java/com/taotao/cart
+svn://127.0.0.1/itcast-microservice
+
+
+
+2019-04-23T08:51:38.759060Z
+2
+gaozhe
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f78c5d8f-3f8e-bc45-8bdc-c87df315e7e5
+
+
+
+
+
+
+0
+
+Main.java
+file
+
+
+
+
+2019-04-12T15:25:35.456000Z
+1db16feaab3676838b4d2924d24bacc9
+2019-04-23T08:51:38.759060Z
+2
+gaozhe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+289
+
+bean
+dir
+
+controller
+dir
+
+interceptors
+dir
+
+mapper
+dir
+
+pojo
+dir
+
+service
+dir
+
+spring
+dir
+
+threadlocal
+dir
+

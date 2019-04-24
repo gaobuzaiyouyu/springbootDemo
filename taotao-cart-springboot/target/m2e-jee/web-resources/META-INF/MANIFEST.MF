@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: taotao-cart-springboot
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.taotao.cart
+Build-Jdk: 1.6.0_13
+Built-By: gaozhe
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/taotao-cart-
+ springboot/
+
